@@ -28,6 +28,6 @@ Laxmi Store wants to create an annual sales report for 2023. So that , Vrinda ca
    * which month got the highest sales and orders?
    * who purchased more - men or women in 2023?
    * what are the different order status in 2023?
-   * List 5 states contributing to the sales?
+   * List 3 states contributing to the sales?
    * Relation between age and gender based on number of orders
    * Which channel is contributing to the maximim sales?
